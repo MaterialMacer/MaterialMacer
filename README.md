@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaterialMacer
-- 👀 I’m interested in TCGs and Frontend Development!
+- 👀 I’m interested in TCGs, Animation, and Frontend Development!
 - 🌱 I’m currently learning Angular and JavaScript in general!
 - 💞️ I’m looking to collaborate on anything website related.
 - 📫 How to reach me - Business Email: maxckalb@gmail.com
